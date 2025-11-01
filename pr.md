@@ -7,7 +7,7 @@
 
 # BioTux CfP with Matrix link (small png)
 
-<img alt="fosdem-biotux-smaller" src="images/fosdem-biotux-smaller.png" />
+<img width="100%" alt="fosdem-biotux-smaller" src="images/fosdem-biotux-smaller.png" />
 
 
 # BioTux CfP with Matrix link (svg)
