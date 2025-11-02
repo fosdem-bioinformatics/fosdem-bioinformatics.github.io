@@ -1,6 +1,6 @@
 # Call for Participation: 1st Bioinformatics and Computational Biology Developer Room at FOSDEM 2026
 
-**The Bioinformatics and Computational Biology FOSDEM community is pleased to announce the 1st edition of our DevRoom and invite participants to submit proposals for talks for the event. It will take place on February, 1st in Belgium, at the Université Libre de Bruxelles (ULB) in the afternoon.**
+**The Bioinformatics and Computational Biology FOSDEM community is pleased to announce the 1st edition of our DevRoom and invite participants to submit proposals for talks for the event. It will take place on January, 31st in Belgium, at the Université Libre de Bruxelles (ULB) in the afternoon.**
 
 
 ### General Information about FOSDEM
