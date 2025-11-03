@@ -80,5 +80,5 @@ We look forward to your submissions and to seeing you at FOSDEM 2026!
 * Freek van Hemert - Next-Generation Sequencing & Data Infrastructure
 * Jim Procter  - Computational Scientist, FOSS Community
 * Elena Grassi - Computational Biologist, Bioconductor/Bioconda contributor
-* Alessandi Pilotti - Open Source Cloud Computing and Bioinformatics
+* Alessandro Pilotti - Open Source Cloud Computing and Bioinformatics
 
