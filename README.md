@@ -3,3 +3,4 @@
 * Our [Call for Participation](./cfp.md)
 * The [schedule for the Devroom track](https://fosdem.org/2026/schedule/track/bioinformatics/) (to be announced)
 * [Promotion materials](./pr.md)
+* [Information for speakers](https://fosdem.org/2026/manuals/program/speaker/)
