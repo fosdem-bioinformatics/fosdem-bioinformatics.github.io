@@ -3,6 +3,7 @@
 ## FOSDEM 2027
 
 * [Draft Call for Participation](./cfp_2027.md)
+* [Call for Devroom submitted for 2027](./cfd_2027.md)
 * [Promotion materials](./pr.md)
 
 ## FOSDEM 2026 (Archived)
